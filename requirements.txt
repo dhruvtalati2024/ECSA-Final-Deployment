@@ -1,0 +1,12 @@
+streamlit
+pandas
+yfinance
+requests
+nltk
+transformers
+torch
+accelerate
+numpy
+matplotlib
+reportlab
+wordcloud
